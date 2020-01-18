@@ -30,6 +30,10 @@
 
 #define LED0                PA2
 
+// *************** LEDSTRIP ************************
+#define USE_LED_STRIP
+#define WS2811_PIN          PD12
+
 #define BEEPER              PD15
 #define BEEPER_INVERTED
 
